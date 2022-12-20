@@ -1,1 +1,1 @@
-![ADAPT public profile poster](blob/master/ADAPT-public-profile.png?raw=true)
+![ADAPT public profile poster](ADAPT-public-profile.png?raw=true)
