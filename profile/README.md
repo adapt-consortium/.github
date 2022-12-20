@@ -1,3 +1,1 @@
-# ADAPT Consortium
-
-This section is public.
+![ADAPT public profile poster](blob/master/ADAPT-public-profile.png?raw=true)
